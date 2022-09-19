@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "vglmer"]
+	path = vglmer
+	url = https://github.com/mgoplerud/vglmer
+	shallow = true
+	registered = true
